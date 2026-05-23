@@ -9,9 +9,9 @@ public class FindMedianSortedArraysProblem
         result.Sort();
 
         if (result.Length % 2 != 0)
-            return result[(result.Length - 1) / 2];   //[1,2,3,4,5]   //[2,2,2,2,2,4,4,4,4]  
+            return result[(result.Length - 1) / 2];
 
-        double median = result[(result.Length / 2) - 1] + result[(result.Length / 2)];  //[1,2,3,4]   [2,2,2,2,[2,4],4,4,4,4] 
+        double median = result[(result.Length / 2) - 1] + result[(result.Length / 2)];
 
         return median / 2;
     }
