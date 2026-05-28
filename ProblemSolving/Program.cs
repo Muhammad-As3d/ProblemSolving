@@ -9,7 +9,12 @@
 //Console.WriteLine(result);
 
 
-using ProblemSolving._3_ContainerWithMostWater;
+//using ProblemSolving._3_ContainerWithMostWater;
 
-Console.WriteLine(SolutionMaxArea.MaxArea([8, 7, 2, 1]));
+//Console.WriteLine(SolutionMaxArea.MaxArea([8, 7, 2, 1]));
 
+using ProblemSolving._5_LengthOfLongestSubstring;
+
+var result = SolutionLengthOfLongestSubstring.LengthOfLongestSubstring("pwwkew");
+
+Console.WriteLine(result);
