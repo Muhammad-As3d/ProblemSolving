@@ -13,8 +13,16 @@
 
 //Console.WriteLine(SolutionMaxArea.MaxArea([8, 7, 2, 1]));
 
-using ProblemSolving._5_LengthOfLongestSubstring;
+//using ProblemSolving._5_LengthOfLongestSubstring;
 
-var result = SolutionLengthOfLongestSubstring.LengthOfLongestSubstring("pwwkew");
+//var result = SolutionLengthOfLongestSubstring.LengthOfLongestSubstring("pwwkew");
 
-Console.WriteLine(result);
+//Console.WriteLine(result);
+
+//using ProblemSolving._6_LongestPalindromicSubstring;
+
+//var resu = LongestPalindromicSubstringSol.LongestPalindrome("abbcccba");
+
+//Console.WriteLine(resu);
+
+ 
