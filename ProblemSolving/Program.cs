@@ -27,6 +27,8 @@
 
 
 //IsPalindrome Problem
-using ProblemSolving._7_IsPalindromeSol;
+//using ProblemSolving._7_IsPalindromeSol;
 
-Console.WriteLine(IsPalindromeSol.IsPalindrome("saas"));
+//Console.WriteLine(IsPalindromeSol.IsPalindrome("saas"));
+
+
