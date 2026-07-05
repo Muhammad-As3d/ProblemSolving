@@ -1,0 +1,6 @@
+@_11_StringtoInteger_atoi__HostAddress = http://localhost:5021
+
+GET {{_11_StringtoInteger_atoi__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

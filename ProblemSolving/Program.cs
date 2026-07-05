@@ -32,3 +32,8 @@
 //Console.WriteLine(IsPalindromeSol.IsPalindrome("saas"));
 
 
+using ProblemSolving._11_StringtoInteger;
+
+var res = StringtoIntegerSol.MyAtoi("1337c0d3");
+
+Console.WriteLine(res);
